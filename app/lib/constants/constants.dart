@@ -1,3 +1,3 @@
 class Constants {
-  static String videoWebsocketURL = "ws://<ipv4_addr>:5000";
+  static String videoWebsocketURL = "ws://192.168.246.223:5000";
 }
